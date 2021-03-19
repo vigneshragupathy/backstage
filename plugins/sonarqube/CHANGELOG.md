@@ -1,5 +1,13 @@
 # @backstage/plugin-sonarqube
 
+## 0.1.15
+
+### Patch Changes
+
+- 322e01a95: Support SonarQube project keys containing special characters like colons.
+- Updated dependencies [fcc3ada24]
+  - @backstage/core@0.7.3
+
 ## 0.1.14
 
 ### Patch Changes
