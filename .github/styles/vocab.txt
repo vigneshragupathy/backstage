@@ -282,6 +282,7 @@ transpiled
 ui
 unmanaged
 unregister
+unregistration
 untracked
 upvote
 url
